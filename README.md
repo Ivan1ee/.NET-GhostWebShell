@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2024-08-01 
+  - [.NET 通过反序列化打入冰蝎内存马的工具](https://mp.weixin.qq.com/s/45OqVlXpivrMo1Kc0StFOw)
 - 2022-09-27 
   - [.NET 实现虚拟WebShell第3课之IAuthorizationFilter](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247486460&idx=1&sn=b20b3bdfd4ba34c5ad554b548494b66d&chksm=fa5aa511cd2d2c076da72fecf29fb4ee3df64e5d851eba69b25c0d5f4a906387a8600aa7309c&token=135931015&lang=zh_CN#rd)
 - 2022-09-09 
