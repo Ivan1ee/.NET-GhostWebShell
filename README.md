@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 ---
 # 更新日志
 
+- 2024-08-12
+  - [.NET 通过反序列化注入天蝎内存马的工具](https://mp.weixin.qq.com/s/37GYzyxswEx5h7G1OUwGyQ)
 - 2024-08-05
   - [.NET 通过反序列化打入哥斯拉内存马的工具](https://mp.weixin.qq.com/s/RDV0BMmDbjElx7QriMZ74g)
 - 2024-08-01 
